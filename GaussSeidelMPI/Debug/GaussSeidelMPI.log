@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\Програмування\C++\Project1\GaussSeidelMPI\Source.cpp(106,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Програмування\C++\Project1\GaussSeidelMPI\Source.cpp(258,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Програмування\C++\Project1\GaussSeidelMPI\Source.cpp(259,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Send@24 в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Recv@28 в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Gatherv@36 в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Scatterv@36 в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_size@8 в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Comm_rank@8 в функции "void __cdecl solver(float * *,int,int)" (?solver@@YAXPAPAMHH@Z)
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Wtime@0 в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Init@8 в функции _main
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ _MPI_Finalize@0 в функции _main
+C:\Program Files\Microsoft HPC Pack 2008 SDK\Lib\amd64\msmpi.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+D:\Програмування\C++\Project1\Debug\GaussSeidelMPI.exe : fatal error LNK1120: неразрешенных внешних элементов: 9

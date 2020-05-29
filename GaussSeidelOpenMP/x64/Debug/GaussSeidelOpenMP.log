@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Програмування\C++\Project1\GaussSeidelOpenMP\Source.cpp(62,114): warning C4849: Предложение "collapse" OpenMP игнорируется в директиве "parallel for".
+  GaussSeidelOpenMP.vcxproj -> D:\Програмування\C++\Project1\x64\Debug\GaussSeidelOpenMP.exe

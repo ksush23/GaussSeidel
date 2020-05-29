@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Програмування\C++\Project1\Project1\Source.cpp(44,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода
+  2 of 16 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Project1.vcxproj -> D:\Програмування\C++\Project1\x64\Release\GaussSeidelConsistent.exe

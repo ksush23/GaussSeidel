@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+D:\Програмування\C++\Project1\Project1\Source.cpp(38,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project1.vcxproj -> D:\Програмування\C++\Project1\Debug\GaussSeidelConsistent.exe

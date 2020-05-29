@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Програмування\C++\Project1\GaussSeidelMPI\Source.cpp(106,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Програмування\C++\Project1\GaussSeidelMPI\Source.cpp(260,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Програмування\C++\Project1\GaussSeidelMPI\Source.cpp(261,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  GaussSeidelMPI.vcxproj -> D:\Програмування\C++\Project1\x64\Debug\GaussSeidelMPI.exe
